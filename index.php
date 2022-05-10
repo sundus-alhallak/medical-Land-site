@@ -53,7 +53,7 @@
     
     	<div id="logo" class="pull-left">
         <h1><a href="#body" class="scrollto">Medical Land <span>Istanbul</span></a></h1>
-         
+        
         
         </div>
         
